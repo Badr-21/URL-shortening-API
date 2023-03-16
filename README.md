@@ -1,3 +1,5 @@
+![URL shortening API landing page](https://github.com/Badr-21/URL-shortening-API/blob/main/public/design/desktop-design.jpg?raw=true)
+
 # URL shortening API landing page.
 URL shortening API landing page is an intermediate challenge from Frontendmentor
 
