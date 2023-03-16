@@ -1,5 +1,5 @@
 # URL shortening API landing page.
-Markdown Previewer project is one of the five required projects to get the freecodecamp Front End Development Libraries certificate.
+URL shortening API landing page is an intermediate challenge from Frontendmentor
 
 
 ## Link to the URL shortening API landing page.
